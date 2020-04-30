@@ -1,0 +1,2 @@
+# Uber-Data-Checkpoint-Analysis
+I've used free dataset mlink is given below . here are almost 800,000 data here. Firtly we'll review the data and then add some efficient column for analyzation. Then, analyze the Date of Month (DoM) and sorting them gradually. Then plot the weekday and hour and then plot the data in the New York,USA state map. Data set: https://github.com/fivethirtyeight/uber-tlc-foil-response/blob/master/uber-trip-data/uber-raw-data-apr14.csv
